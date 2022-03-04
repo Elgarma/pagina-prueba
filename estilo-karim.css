@@ -1,0 +1,108 @@
+
+
+#Titulo{
+
+	font-size:100px;
+	background-color:grey;
+	display: inline;
+	box-sizing: border-box;
+	border-radius: 2em;
+	border: 5px solid pink;
+	box-shadow: 50px 0px 10px 0 #000;
+
+	}
+
+.Navegador{
+	
+	top: 30px;
+	left: 30em;
+	position: absolute;
+	font-size: 20px;
+
+}
+
+
+#parrafo-primero{
+
+text-align: center;
+position: relative;
+margin: 50px;
+font-family: Redressed;
+color:#7e7f2f;
+font-size: 30px;
+
+}
+
+#Discord-1{
+
+background-color:#8b466c;
+padding: 300px 300px;
+margin: 0;
+text-align: center;
+color: #16f3c9;
+text-shadow: 1px 2px 1px #efaaa3,1px 2px 1px #efaaa3,1px 2px 1px #efaaa3;
+font-size: 30px;
+display: block;
+background-image:url(https://i.imgur.com/cvsGVO0.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+z-index: 0px;
+}
+
+#Discord-2{
+	
+margin: 0;
+text-align: center;
+color: #3c0080;
+font-size: 20px;
+display: inline;
+position: absolute;
+top: 650px;
+left: 650px;
+border: 10px;
+border-radius: 1em;
+background-color: white;
+text-shadow: 1px 2px 1px #610900;
+box-shadow: 5px 2px 1px 0 green;
+z-index: 100px
+
+}
+
+#Twitch{
+
+text-align: center;
+position: absolute;
+color:#3c0080;
+left: 1200px;
+top:650px;
+font-size: 20px;
+border: 10px;
+border-radius: 1em;
+background-color: white;
+text-shadow: 1px 2px 1px #610900;
+box-shadow: 5px 2px 1px 0 green;
+z-index: 100px
+
+}
+
+#Background{
+
+	
+	background-image: url(https://i.imgur.com/KUrr9sb.png);
+	background-size: cover;
+	background-color:
+
+
+
+}
+.Links{
+	color: #fff;
+	text-shadow:1px 2px 1px  #000,1px 2px 1px  #000,1px 2px 1px  #000;
+
+}
+#Johan{
+
+	width: 400px;
+
+}
